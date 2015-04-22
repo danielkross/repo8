@@ -1,1 +1,4 @@
 notas para enviar a local
+
+
+pa enviar a repo
